@@ -1,4 +1,4 @@
-**Raspberry Pi + NXG WebVIs + WebSockets Demo Project**
+# Raspberry Pi + NXG WebVIs + WebSockets Demo Project
 
 For more information on this example/project - view the related blog post at https://www.mediamongrels.com/blog/
 ---
