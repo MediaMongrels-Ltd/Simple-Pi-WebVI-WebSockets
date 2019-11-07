@@ -113,7 +113,7 @@ AddOutputFilter chunkFilter
 			<Property Name="ws.version.fix" Type="Int">0</Property>
 			<Property Name="ws.version.major" Type="Int">1</Property>
 			<Property Name="ws.version.minor" Type="Int">0</Property>
-			<Item Name="Public Content" Type="Folder" URL="../../WebVI/Raspberry Pi GUI/Builds/WebApp_Web Server">
+			<Item Name="Public Content" Type="Folder" URL="../../Raspberry Pi GUI/Builds/WebApp_Web Server">
 				<Property Name="NI.DISK" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Startup VIs" Type="Startup VIs Container"/>
